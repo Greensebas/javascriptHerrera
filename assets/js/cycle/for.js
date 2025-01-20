@@ -2,14 +2,19 @@ const heros = [
     'Batman',
     'Superman',
     'Wonder Woman',
-    'Aquaman'
+    'Aquaman',
+    'Spiderman'
 ];
+
 
 console.warn('For tradicional')
 
-// for (let i = 0; i < heros.length; i++) {
-//     console.log(heros[i]);
-// };
+
+for (let i = 0; i < 5; i++) {
+    console.log(heros[i])
+};
+
+
 
 
 console.warn('For in');

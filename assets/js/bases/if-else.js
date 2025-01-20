@@ -13,7 +13,7 @@ console.log({ day });
 if ( day === 0 ) {
     console.log('Hoy es domingo');
 } else {
-    console.log('Hoy no es domingo')
+    console.log('Hoy no es domingo');
 }
 
 
